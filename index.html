@@ -13,8 +13,17 @@
         <script>
             JsBarcode("#Hi_barcode", "Hi!");
         </script>
+
         <p></p>
+        
         <!-- Code 39 Demo Barcode -->
+        <svg id="39_Demo_barcode"></svg>
+
+        <script>
+            JsBarcode("#39_Demo_barcode", "CODE39 Barcode", {
+                format: "CODE39"
+            });
+        </script>
 
     </body>
 </html>
