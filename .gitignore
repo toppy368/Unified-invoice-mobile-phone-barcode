@@ -1,0 +1,25 @@
+# 檔案名稱 .gitignore
+
+# 忽略 JsBarcode.all.min.js
+JsBarcode.all.min.js
+
+# 忽略 JsBarcode.code128.min.js
+JsBarcode.code128.min.js
+
+# 忽略 JsBarcode.code39.min.js
+JsBarcode.code39.min.js
+
+# 忽略 JsBarcode.ean-upc.min.js
+JsBarcode.ean-upc.min.js
+
+# 忽略 JsBarcode.itf.min.js
+JsBarcode.itf.min.js
+
+# 忽略 JsBarcode.msi.min.js
+JsBarcode.msi.min.js
+
+# 忽略 JsBarcode.pharmacode.min.js
+JsBarcode.pharmacode.min.js
+
+# 忽略 JsBarcode.codabar.min.js
+JsBarcode.codabar.min.js
