@@ -26,3 +26,12 @@ JsBarcode.codabar.min.js
 
 # 忽略實驗用的檔案
 barcode_demo.html
+
+# 忽略外部複製而來的字型檔
+NotoSerifTC-Black.otf
+NotoSerifTC-Bold.otf
+NotoSerifTC-ExtraLight.otf
+NotoSerifTC-Light.otf
+NotoSerifTC-Medium.otf
+NotoSerifTC-Regular.otf
+NotoSerifTC-SemiBold.otf
