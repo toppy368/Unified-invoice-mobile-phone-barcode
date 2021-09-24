@@ -1,6 +1,6 @@
-/* 下載字體 Google 的思源黑體 */
+/* 下載字體 Google 的思源黑體 (所有字重與粗細) */
 /* 字體來源：https://fonts.google.com/noto/specimen/Noto+Sans+TC */
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100;300;400;500;700;900&family=Noto+Serif+TC:wght@200;300;400;500;600;700;900&display=swap');
 
 /* 下載字體 Google 的思源宋體 (所有字重與粗細) */
 /* 字體來源：https://fonts.google.com/noto/specimen/Noto+Serif+TC?noto.query=Traditional+Chinese */
