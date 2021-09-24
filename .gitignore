@@ -23,3 +23,6 @@ JsBarcode.pharmacode.min.js
 
 # 忽略 JsBarcode.codabar.min.js
 JsBarcode.codabar.min.js
+
+# 忽略實驗用的檔案
+barcode_demo.html
