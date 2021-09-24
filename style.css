@@ -2,6 +2,11 @@
 /* 字體來源：https://fonts.google.com/noto/specimen/Noto+Sans+TC */
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100;400&display=swap');
 
+/* 下載字體 Google 的思源宋體 (所有字重與粗細) */
+/* 字體來源：https://fonts.google.com/noto/specimen/Noto+Serif+TC?noto.query=Traditional+Chinese */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100;400&family=Noto+Serif+TC:wght@200;300;400;500;600;700;900&display=swap');
+
+
 .div_box {
     width: 600px;
     height: 180px;
